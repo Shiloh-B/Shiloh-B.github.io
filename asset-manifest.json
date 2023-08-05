@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Shiloh-B.github.io/static/css/main.bda7e3c4.css",
-    "main.js": "/Shiloh-B.github.io/static/js/main.a5387192.js",
-    "static/media/guesstheprompt.png": "/Shiloh-B.github.io/static/media/guesstheprompt.aaf7976aac85020b3595.png",
-    "static/media/resume.pdf": "/Shiloh-B.github.io/static/media/resume.8a7457033dfac1d73d9a.pdf",
-    "static/media/plustwo.png": "/Shiloh-B.github.io/static/media/plustwo.f578fb0b79e34adaee7e.png",
-    "static/media/headshot.jpg": "/Shiloh-B.github.io/static/media/headshot.bea0567f311e60e8e3db.jpg",
-    "index.html": "/Shiloh-B.github.io/index.html",
-    "main.bda7e3c4.css.map": "/Shiloh-B.github.io/static/css/main.bda7e3c4.css.map",
-    "main.a5387192.js.map": "/Shiloh-B.github.io/static/js/main.a5387192.js.map"
+    "main.css": "/static/css/main.04299322.css",
+    "main.js": "/static/js/main.db356fa5.js",
+    "static/media/guesstheprompt.png": "/static/media/guesstheprompt.aaf7976aac85020b3595.png",
+    "static/media/resume.pdf": "/static/media/resume.8a7457033dfac1d73d9a.pdf",
+    "static/media/plustwo.png": "/static/media/plustwo.f578fb0b79e34adaee7e.png",
+    "static/media/headshot.jpg": "/static/media/headshot.bea0567f311e60e8e3db.jpg",
+    "index.html": "/index.html",
+    "main.04299322.css.map": "/static/css/main.04299322.css.map",
+    "main.db356fa5.js.map": "/static/js/main.db356fa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.bda7e3c4.css",
-    "static/js/main.a5387192.js"
+    "static/css/main.04299322.css",
+    "static/js/main.db356fa5.js"
   ]
 }
